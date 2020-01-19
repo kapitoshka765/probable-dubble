@@ -1,1 +1,1 @@
-worker: python botbet3.py
+worker: python botbet7.py
