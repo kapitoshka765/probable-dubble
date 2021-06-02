@@ -23,7 +23,7 @@ six==1.13.0
 soupsieve==1.9.5
 telebot==0.0.3
 tqdm==4.40.2
-urllib3==1.25.7
+urllib3==1.26.5
 uuid==1.30
 virtualenv==16.7.7
 w3lib==1.21.0
