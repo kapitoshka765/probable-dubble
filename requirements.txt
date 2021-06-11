@@ -27,6 +27,6 @@ urllib3==1.25.7
 uuid==1.30
 virtualenv==16.7.7
 w3lib==1.21.0
-websockets==8.1
+websockets==9.1
 yandex-checkout==1.5.0
 zope.interface==4.7.1
